@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Space</string>
+    <string name="launch">Launch</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="search_hint">Find apps…</string>
+    <string name="pre_installed_app_error_msg">Can\'t remove Pre-Installed apps</string>
+    <string name="uninstalled_success_msg">Uninstalled %s</string>
+</resources>
